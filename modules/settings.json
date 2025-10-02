@@ -1,0 +1,108 @@
+{
+    "BROWNS": {
+        "anniversaries": [
+            {
+                "date": "01/19",
+                "name": "Jeff & Sarah Anniversary",
+                "message": "Happy Anniversary!"
+            },
+            {
+                "date": "06/05",
+                "name": "Tom & Charlotte Anniversary",
+                "message": "Best wishes on your special day!"
+            },
+            {
+                "date": "06/09",
+                "name": "Kay & John Anniversary",
+                "message": "Wishing you a wonderful anniversary!"
+            },
+            {
+                "date": "08/23",
+                "name": "Stephen & Andrea Anniversary",
+                "message": "Happy Anniversary!"
+            }
+        ],
+        "birthdays": [
+            {
+                "date": "02/07",
+                "name": "Jeff's Bday",
+                "message": "Happy Birthday, Jeff!"
+            },
+            {
+                "date": "02/10",
+                "name": "Ruby's Bday",
+                "message": "Happy Birthday, Ruby!"
+            },
+            {
+                "date": "04/17",
+                "name": "Sarah's Bday",
+                "message": "Happy Birthday, Sarah!"
+            },
+            {
+                "date": "05/11",
+                "name": "Riley's Bday",
+                "message": "Happy Birthday, Riley!"
+            },
+            {
+                "date": "08/26",
+                "name": "Rowan's Bday",
+                "message": "Happy Birthday, Rowan!"
+            }
+        ]
+    },
+    "SEASONS": {
+        "Autumn": {
+            "start_date": "09/01",
+            "end_date": "11/30"
+        },
+        "Winter": {
+            "start_date": "12/01",
+            "end_date": "03/01"
+        },
+        "Spring": {
+            "start_date": "03/02",
+            "end_date": "05/31"
+        },
+        "Summer": {
+            "start_date": "06/01",
+            "end_date": "08/31"
+        }
+    },
+    "HOLIDAYS": {
+        "fixed": [
+            {
+                "date": "12/25",
+                "name": "Christmas",
+                "message": "Merry Christmas!"
+            },
+            {
+                "date": "07/04",
+                "name": "Independence Day",
+                "message": "Happy 4th of July!"
+            }
+        ],
+        "floating": [
+            {
+                "name": "MLK Day",
+                "month": 1,
+                "weekday": "Monday",
+                "occurrence": 3,
+                "message": "Celebrating Martin Luther King Jr. Day"
+            },
+            {
+                "name": "Thanksgiving",
+                "month": 11,
+                "weekday": "Thursday",
+                "occurrence": 4,
+                "message": "Happy Thanksgiving!"
+            },
+            {
+                "name": "Memorial Day",
+                "month": 5,
+                "weekday": "Monday",
+                "occurrence": -1,
+                "message": "Remembering those who served"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "time": {
+        "position": [
+            5,
+            5
+        ],
+        "font_size": 12
+    },
+    "weather": {
+        "position": [
+            5,
+            15
+        ],
+        "font_size": 10,
+        "message": "Sunny, 75°F"
+    },
+    "events": {
+        "position": [
+            5,
+            25
+        ],
+        "font_size": 10
+    }
+}
